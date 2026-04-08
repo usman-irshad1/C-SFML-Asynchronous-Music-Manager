@@ -1,0 +1,13 @@
+.vs/
+x64/
+Debug/
+Release/
+ipch/
+*.ipch
+*.db
+*.obj
+*.pdb
+*.ilk
+*.tlog
+*.lastbuildstate
+Assignme.db805fd7/
