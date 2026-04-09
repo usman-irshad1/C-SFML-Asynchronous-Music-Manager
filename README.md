@@ -18,7 +18,7 @@ A high-performance digital audio playback simulation that leverages custom-built
 
 This project emulates a classic iPod-style interface, focusing on efficient playlist management, seamless playback, and optimized memory usage.
 
-
+To view the UML diagram, press this link https://usman-irshad1.github.io/C-SFML-Asynchronous-Music-Manager/
 
 \---
 
